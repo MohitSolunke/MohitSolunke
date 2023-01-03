@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohit_solunke03" target="blank"><img src="https://img.shields.io/twitter/follow/mohit_solunke03?logo=twitter&style=for-the-badge" alt="mohit_solunke03" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and Data Science**
+- 🔭 I’m currently working on [Machine learning and Data Science](https://github.com/MohitSolunke/AIML)
+
+- 👯 I’m looking to collaborate on **Internship**
+
+- 🤝 I’m looking for help with **Data Science**
 
 - 📫 How to reach me **mahisolunke@gmail.com**
 
