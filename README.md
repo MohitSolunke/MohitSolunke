@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 📫 How to reach me **mahisolunke@gmail.com**
+- 📫 How to reach me **https://linktr.ee/MohitSolunke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
