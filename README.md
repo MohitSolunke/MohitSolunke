@@ -2,7 +2,7 @@
 <h3 align="center" color =red >I am a TECH enthusiast from India</h3>
 
 <div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+  <img src="https://www.canva.com/design/DAFlZtNNQMo/fMrgPfY5AKc2rsxUEKek9Q/edit" alt="header"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolunke&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolunke" /> </p>
