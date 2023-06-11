@@ -1,6 +1,10 @@
 <h1 align="center">Hello, 👋 I'm Mohit Solunke</h1>
 <h3 align="center" color =red >I am a TECH enthusiast from India</h3>
 
+<div align="center">
+  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolunke&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolunke" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohitsolunke" alt="mohitsolunke" /></a> </p>
