@@ -1,4 +1,4 @@
-<h1 align="center">Hello, 👋 I'am 𝕸𝖔𝖍𝖎𝖙 𝕾𝖔𝖑𝖚𝖓𝖐𝖊</h1>
+<h1 align="center">Hello, 👋 I'am Mohit Solunke</h1>
 <h3 align="center" color =red >I am a TECH enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsolunke&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsolunke" /> </p>
